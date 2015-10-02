@@ -9,9 +9,12 @@ menu:
   # Delete this row if you don't want categories in your header nav bar
   Categories:
   About: /about/index.html
+#language
+language: ru
 
 # Article list grouped by year
 groupByYear: true
+
 
 # Content
 fancybox: true
@@ -28,7 +31,7 @@ social_links:
   twitter:
   facebook:
   google-plus:
-  github: https://github.com/ppoffice/hexo-theme-hueman
+  github: https://github.com/DmitrySigaev
   weibo:
   rss:
 widgets:
@@ -41,7 +44,7 @@ widgets:
 
 # Links
 links:
-  Hexo: http://hexo.io
+  Hexo: http://designest.ru
 
 # Don't Use Google APIs if you are in google-blocked areas
 use_google_apis: false
